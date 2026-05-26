@@ -1,8 +1,15 @@
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/f82abfb4-be29-488a-b073-c9884dc9fdfe" />
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Tanu28-pixel&label=Profile%20Views&color=A855F7&style=for-the-badge" />
+</p>
+
+
 # Hi, I'm Tanvi Jadhav 👋
 
-<div align="center">
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Tanu28-pixel&theme=algolia&no-frame=true&row=1&column=6" />
+</p>
 
 ### 🌟 Aspiring Data Analyst  
 ### Python • SQL • Power BI • Machine Learning
@@ -68,7 +75,13 @@ Python-based scraper for collecting and analyzing ecommerce product data.
 </p>
 
 ---
+## 🐍 Contribution Snake
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tanu28-pixel/Tanu28-pixel/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tanvi_Jadhav-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/tanvi-jadhav)

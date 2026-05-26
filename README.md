@@ -61,6 +61,8 @@ AI-powered essay evaluation project using machine learning concepts.
 ### 🛒 Ecommerce Product Scraper
 Python-based scraper for collecting and analyzing ecommerce product data.
 
+### 📈 Retail Sales Analysis
+Data analytics project focused on sales trends, customer behavior, KPI tracking, and business insights using Power BI and Excel.
 ---
 
 ## 📈 GitHub Stats

@@ -16,14 +16,14 @@
 
 ## 📌 Projects
 
-### 🏥 SwasthyaSetu – AI Healthcare Platform
-AI-powered healthcare monitoring platform using Next.js, TypeScript, Supabase, and OpenAI API.
-
 ### 🧬 Breast Cancer ML Classification
 Machine learning model using SVM and XGBoost for breast cancer prediction with SHAP explainability.
 
 ### 📊 Superstore Sales Dashboard
 Interactive Power BI dashboard analyzing sales, profit, and customer insights.
+
+### 🤖 Essay AI Agent
+AI-powered essay evaluation project using machine learning concepts.
 
 ## 📫 Connect With Me
 - LinkedIn: https://linkedin.com/in/tanvi-jadhav

@@ -1,7 +1,9 @@
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/f82abfb4-be29-488a-b073-c9884dc9fdfe" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=E9D5FF&height=100&section=footer"/>
 
 # Hi, I'm Tanvi Jadhav 👋
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Power+BI;Machine+Learning+Enthusiast" />
+</p>
 
 ### 🌟 Aspiring Data Analyst  
 ### Python • SQL • Power BI • Machine Learning
@@ -39,6 +41,16 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql,js,html,css,github,vscode" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Power%20BI-E9D5FF?style=for-the-badge&logo=googleanalytics&logoColor=7C3AED"/>
+  <img src="https://img.shields.io/badge/Tableau-F3E8FF?style=for-the-badge&logo=tableau&logoColor=9333EA"/>
+  <img src="https://img.shields.io/badge/Excel-DBEAFE?style=for-the-badge&logo=microsoftexcel&logoColor=2563EB"/>
+</p>
+---
 
 ## 📌 Featured Projects
 
@@ -67,18 +79,19 @@ Python-based scraper for collecting and analyzing ecommerce product data.
 </p>
 
 ---
-## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Tanu28-pixel/Tanu28-pixel/output/github-contribution-grid-snake.svg" />
-</p>
-
----
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tanvi_Jadhav-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/tanvi-jadhav)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Tanu28--pixel-black?style=for-the-badge&logo=github)](https://github.com/Tanu28-pixel)
+
+---
+<div align="center">
+
+✨ *Turning data into insights, insights into impact.* ✨
+
+</div>
 
 📧 Email: tanvi926@gmail.com
 

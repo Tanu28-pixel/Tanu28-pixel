@@ -1,10 +1,5 @@
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/f82abfb4-be29-488a-b073-c9884dc9fdfe" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Tanu28-pixel&label=Profile%20Views&color=A855F7&style=for-the-badge" />
-</p>
-
-
 # Hi, I'm Tanvi Jadhav 👋
 
 

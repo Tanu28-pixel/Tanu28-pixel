@@ -1,3 +1,5 @@
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/f82abfb4-be29-488a-b073-c9884dc9fdfe" />
+
 # Hi, I'm Tanvi Jadhav 👋
 
 <div align="center">

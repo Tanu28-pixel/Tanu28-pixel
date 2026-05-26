@@ -22,21 +22,20 @@
 ## 🛠️ Tech Stack
 
 ### 👩‍💻 Languages & Tools
-
 <p align="center">
 
 ![Python](https://img.shields.io/badge/Python-C4B5FD?style=for-the-badge&logo=python&logoColor=4C1D95)
 ![SQL](https://img.shields.io/badge/SQL-D8B4FE?style=for-the-badge&logo=postgresql&logoColor=4C1D95)
-![Power BI](https://img.shields.io/badge/Power_BI-E9D5FF?style=for-the-badge&logo=powerbi&logoColor=7C3AED)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-C7D2FE?style=for-the-badge&logoColor=4338CA)
+![Power BI](https://img.shields.io/badge/Power_BI-F3E8FF?style=for-the-badge&logo=powerbi&logoColor=9333EA)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-DBEAFE?style=for-the-badge&logo=tensorflow&logoColor=6366F1)
 
-![Pandas](https://img.shields.io/badge/Pandas-DDD6FE?style=for-the-badge&logo=pandas&logoColor=5B21B6)
-![NumPy](https://img.shields.io/badge/NumPy-BFDBFE?style=for-the-badge&logo=numpy&logoColor=1D4ED8)
-![Scikit_Learn](https://img.shields.io/badge/Scikit_Learn-EDE9FE?style=for-the-badge&logo=scikitlearn&logoColor=7C3AED)
+![Pandas](https://img.shields.io/badge/Pandas-EDE9FE?style=for-the-badge&logo=pandas&logoColor=6D28D9)
+![NumPy](https://img.shields.io/badge/NumPy-DBEAFE?style=for-the-badge&logo=numpy&logoColor=2563EB)
+![Scikit_Learn](https://img.shields.io/badge/Scikit_Learn-F5F3FF?style=for-the-badge&logo=scikitlearn&logoColor=7C3AED)
 
-![HTML](https://img.shields.io/badge/HTML-F5D0FE?style=for-the-badge&logo=html5&logoColor=A21CAF)
+![HTML](https://img.shields.io/badge/HTML-FCE7F3?style=for-the-badge&logo=html5&logoColor=DB2777)
 ![CSS](https://img.shields.io/badge/CSS-DBEAFE?style=for-the-badge&logo=css3&logoColor=2563EB)
-![JavaScript](https://img.shields.io/badge/JavaScript-E9D5FF?style=for-the-badge&logo=javascript&logoColor=7C3AED)
+![JavaScript](https://img.shields.io/badge/JavaScript-F3E8FF?style=for-the-badge&logo=javascript&logoColor=7C3AED)
 
 </p>
 

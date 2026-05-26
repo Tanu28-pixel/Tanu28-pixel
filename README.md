@@ -25,18 +25,18 @@
 
 <p align="center">
 
-![Python](https://img.shields.io/badge/Python-6C63FF?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-7F5AF0?style=for-the-badge&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-A855F7?style=for-the-badge&logo=powerbi&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-6366F1?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-C4B5FD?style=for-the-badge&logo=python&logoColor=4C1D95)
+![SQL](https://img.shields.io/badge/SQL-D8B4FE?style=for-the-badge&logo=postgresql&logoColor=4C1D95)
+![Power BI](https://img.shields.io/badge/Power_BI-E9D5FF?style=for-the-badge&logo=powerbi&logoColor=7C3AED)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-C7D2FE?style=for-the-badge&logoColor=4338CA)
 
-![Pandas](https://img.shields.io/badge/Pandas-8B5CF6?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-6366F1?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit_Learn](https://img.shields.io/badge/Scikit_Learn-A78BFA?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-DDD6FE?style=for-the-badge&logo=pandas&logoColor=5B21B6)
+![NumPy](https://img.shields.io/badge/NumPy-BFDBFE?style=for-the-badge&logo=numpy&logoColor=1D4ED8)
+![Scikit_Learn](https://img.shields.io/badge/Scikit_Learn-EDE9FE?style=for-the-badge&logo=scikitlearn&logoColor=7C3AED)
 
-![HTML](https://img.shields.io/badge/HTML-7C3AED?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-6366F1?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-8B5CF6?style=for-the-badge&logo=javascript&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-F5D0FE?style=for-the-badge&logo=html5&logoColor=A21CAF)
+![CSS](https://img.shields.io/badge/CSS-DBEAFE?style=for-the-badge&logo=css3&logoColor=2563EB)
+![JavaScript](https://img.shields.io/badge/JavaScript-E9D5FF?style=for-the-badge&logo=javascript&logoColor=7C3AED)
 
 </p>
 

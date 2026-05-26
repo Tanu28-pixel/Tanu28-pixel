@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Tanu28-pixel/Tanu28-pixel/main/banner.png" />
-</p>
+https://raw.githubusercontent.com/Tanu28-pixel/Tanu28-pixel/main/banner.png
 
 # Hi, I'm Tanvi Jadhav 👋
 <p align="center">

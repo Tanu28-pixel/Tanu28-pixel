@@ -7,9 +7,6 @@
 
 # Hi, I'm Tanvi Jadhav 👋
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tanu28-pixel&theme=algolia&no-frame=true&row=1&column=6" />
-</p>
 
 ### 🌟 Aspiring Data Analyst  
 ### Python • SQL • Power BI • Machine Learning

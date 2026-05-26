@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Tanu28-pixel/Tanu28-pixel/main/cae8c8d0-cace-4c0d-b058-32e0169df554.png"/>
-</p>
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/5ad1c867-067d-44e2-a0ad-bcb31accd36e" />
 
 # Hi, I'm Tanvi Jadhav 👋
 

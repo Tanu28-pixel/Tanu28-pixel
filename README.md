@@ -1,15 +1,12 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Tanu28-pixel/Tanu28-pixel/main/EXACT_IMAGE_NAME.png"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=24,20,17,12&text=Tanvi%20Jadhav&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Data%20Analyst%20|%20Python%20•%20SQL%20•%20Power%20BI%20•%20Machine%20Learning&descAlignY=55&descSize=18"/>
 </p>
 
 
 # Hi, I'm Tanvi Jadhav 👋
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Power+BI;Machine+Learning+Enthusiast" />
-</p>
 
-
-</div>
+### 🌟 Aspiring Data Analyst  
+### Python • SQL • Power BI • Machine Learning
 
 ---
 

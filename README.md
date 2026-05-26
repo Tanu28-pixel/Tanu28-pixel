@@ -45,7 +45,7 @@
   <img src="https://img.shields.io/badge/Tableau-F3E8FF?style=for-the-badge&logo=tableau&logoColor=9333EA"/>
   <img src="https://img.shields.io/badge/Excel-DBEAFE?style=for-the-badge&logo=microsoftexcel&logoColor=2563EB"/>
 </p>
----
+
 
 ## 📌 Featured Projects
 

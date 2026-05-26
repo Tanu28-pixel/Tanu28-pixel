@@ -83,7 +83,7 @@ Python-based scraper for collecting and analyzing ecommerce product data.
 
 ---
 
-📧 Email: tanvi926@gmail.com
+📧 Email: jtanvi926@gmail.com
 
 ---
 

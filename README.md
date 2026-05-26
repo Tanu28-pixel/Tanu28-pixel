@@ -82,11 +82,6 @@ Python-based scraper for collecting and analyzing ecommerce product data.
 [![GitHub](https://img.shields.io/badge/GitHub-Tanu28--pixel-black?style=for-the-badge&logo=github)](https://github.com/Tanu28-pixel)
 
 ---
-<div align="center">
-
-✨ *Turning data into insights, insights into impact.* ✨
-
-</div>
 
 📧 Email: tanvi926@gmail.com
 

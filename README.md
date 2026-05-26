@@ -23,6 +23,8 @@
 
 ### 👩‍💻 Languages & Tools
 
+<p align="center">
+
 ![Python](https://img.shields.io/badge/Python-6C63FF?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-7F5AF0?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-A855F7?style=for-the-badge&logo=powerbi&logoColor=white)
@@ -36,6 +38,7 @@
 ![CSS](https://img.shields.io/badge/CSS-6366F1?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-8B5CF6?style=for-the-badge&logo=javascript&logoColor=white)
 
+</p>
 
 ---
 

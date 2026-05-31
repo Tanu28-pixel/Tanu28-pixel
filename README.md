@@ -49,11 +49,17 @@
 
 ## 📌 Featured Projects
 
-### 🧬 Breast Cancer ML Classification
-Machine learning project using SVM and XGBoost for breast cancer prediction with SHAP explainability.
+### 📊 HR Analytics Project
+End-to-end HR Analytics project using Python, SQL, Excel, Power BI, and Tableau to analyze employee attrition, workforce trends, job satisfaction, overtime impact, and business insights through interactive dashboards and data storytelling.
+
+### 📈 Retail Sales Analysis
+Data analytics project focused on sales trends, customer behavior, KPI tracking, and business insights using Power BI and Excel.
 
 ### 📊 Superstore Sales Dashboard
 Interactive Power BI dashboard analyzing sales, profit, and customer insights.
+
+### 🧬 Breast Cancer ML Classification
+Machine learning project using SVM and XGBoost for breast cancer prediction with SHAP explainability.
 
 ### 🤖 Essay AI Agent
 AI-powered essay evaluation project using machine learning concepts.
@@ -61,8 +67,6 @@ AI-powered essay evaluation project using machine learning concepts.
 ### 🛒 Python-Web-Scraping-Project
 Python-based scraper for collecting and analyzing ecommerce product data.
 
-### 📈 Retail Sales Analysis
-Data analytics project focused on sales trends, customer behavior, KPI tracking, and business insights using Power BI and Excel.
 
 ## 📈 GitHub Stats
 

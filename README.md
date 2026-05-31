@@ -58,7 +58,7 @@ Interactive Power BI dashboard analyzing sales, profit, and customer insights.
 ### 🤖 Essay AI Agent
 AI-powered essay evaluation project using machine learning concepts.
 
-### 🛒 Ecommerce Product Scraper
+### 🛒 Python-Web-Scraping-Project
 Python-based scraper for collecting and analyzing ecommerce product data.
 
 ### 📈 Retail Sales Analysis

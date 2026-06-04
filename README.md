@@ -67,17 +67,6 @@ AI-powered essay evaluation project using machine learning concepts.
 ### 🛒 Python-Web-Scraping-Project
 Python-based scraper for collecting and analyzing ecommerce product data.
 
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tanu28-pixel&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanu28-pixel&theme=tokyonight" />
-</p>
-
 ---
 
 ## 📫 Connect With Me

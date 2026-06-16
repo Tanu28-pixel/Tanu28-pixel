@@ -64,8 +64,8 @@ Machine learning project using SVM and XGBoost for breast cancer prediction with
 ### 🤖 Essay AI Agent
 AI-powered essay evaluation project using machine learning concepts.
 
-### 🛒 Python-Web-Scraping-Project
-Python-based scraper for collecting and analyzing ecommerce product data.
+### Britannia Business Intelligence Center
+An interactive Power BI project designed to analyze sales performance, profitability, inventory management, customer behavior, and brand contribution within the FMCG retail sector.
 
 ---
 

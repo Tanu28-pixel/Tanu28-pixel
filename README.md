@@ -70,7 +70,7 @@ An interactive Power BI project designed to analyze sales performance, profitabi
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tanvi_Jadhav-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/tanvi-jadhav)
+[![LinkedIn](https://www.linkedin.com/in/tanvi-jadhav-96693224a)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Tanu28--pixel-black?style=for-the-badge&logo=github)](https://github.com/Tanu28-pixel)
 

@@ -3,7 +3,7 @@
 # Hi, I'm Tanvi Jadhav 👋
 
 ### 🌟 Aspiring Data Analyst  
-### Python • SQL • Power BI • Machine Learning
+### Python • SQL • Power BI • Excel
 
 ---
 

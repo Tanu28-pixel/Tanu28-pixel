@@ -1,3 +1,4 @@
+<img width="735" height="455" alt="Screenshot 2026-06-28 200233" src="https://github.com/user-attachments/assets/39ae5655-030c-4368-933b-dab44dc58caf" />
 
 
 # Hi, I'm Tanvi Jadhav 👋

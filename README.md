@@ -23,7 +23,6 @@
 ![Python](https://img.shields.io/badge/Python-C4B5FD?style=for-the-badge&logo=python&logoColor=4C1D95)
 ![SQL](https://img.shields.io/badge/SQL-D8B4FE?style=for-the-badge&logo=postgresql&logoColor=4C1D95)
 ![Power BI](https://img.shields.io/badge/Power%20BI-E9D5FF?style=for-the-badge&logo=googleanalytics&logoColor=7C3AED)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-DBEAFE?style=for-the-badge&logo=tensorflow&logoColor=6366F1)
 
 ![Pandas](https://img.shields.io/badge/Pandas-EDE9FE?style=for-the-badge&logo=pandas&logoColor=6D28D9)
 ![NumPy](https://img.shields.io/badge/NumPy-DBEAFE?style=for-the-badge&logo=numpy&logoColor=2563EB)

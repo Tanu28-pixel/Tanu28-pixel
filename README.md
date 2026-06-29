@@ -11,9 +11,8 @@
 ## 🚀 About Me
 - 🎓 Computer Science Engineering Student
 - 📊 Passionate about Data Analytics & Visualization
-- 🤖 Interested in Machine Learning and AI solutions
 - 📈 Building real-world analytics and dashboard projects
-- 🌱 Currently improving my skills in Data Analytics & ML
+- 🌱 Currently improving my skills in Data Analytics
 
 ---
 ## 🛠️ Tech Stack

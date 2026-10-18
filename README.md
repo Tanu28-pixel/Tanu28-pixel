@@ -60,7 +60,8 @@ Interactive Power BI dashboard analyzing sales, profit, and customer insights.
 ### 🧬 Breast Cancer ML Classification
 Machine learning project using SVM and XGBoost for breast cancer prediction with SHAP explainability.
 
-### AL Customer Churn Analysis
+### AI Powered Customer Churn and Retention Intelligence
+An end-to-end customer churn analytics project that combines Python, SQL, and Power BI to identify churn patterns, understand customer behavior, analyze retention opportunities, and support data-driven business decisions.
 
 ### Britannia Business Intelligence Center
 An interactive Power BI project designed to analyze sales performance, profitability, inventory management, customer behavior, and brand contribution within the FMCG retail sector.

@@ -60,8 +60,7 @@ Interactive Power BI dashboard analyzing sales, profit, and customer insights.
 ### 🧬 Breast Cancer ML Classification
 Machine learning project using SVM and XGBoost for breast cancer prediction with SHAP explainability.
 
-### 🤖 Essay AI Agent
-AI-powered essay evaluation project using machine learning concepts.
+### AL Customer Churn Analysis
 
 ### Britannia Business Intelligence Center
 An interactive Power BI project designed to analyze sales performance, profitability, inventory management, customer behavior, and brand contribution within the FMCG retail sector.
